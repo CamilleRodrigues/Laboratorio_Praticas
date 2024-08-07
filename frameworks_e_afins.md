@@ -27,7 +27,7 @@ Estudar, entender e complilar os temas: BIBLIOTECA, PACOTE, FRAMEWORKS E API!
      a) Ponto positivo: aceleração do desenvolvimento e garantia de consistência.
      b) Ponto negativo: limitação da flexibilidade, pois terão regras estabelecidas a serem seguidas.
 
-## API (Interafce de Programação de Aplicações)
+## API (Interface de Programação de Aplicações)
   1) Definição: conjunto de regras e definições que permite e define como diferentes softwares se **comuniquem**. (comunicação de softwares) (integração de sitemas)
 
   2) Exemplos: - API do Google Maps: permite que desenvolvedores integrem mapas e funcionalidades relacionadas ao Google Maps em seus próprios aplicativos.
