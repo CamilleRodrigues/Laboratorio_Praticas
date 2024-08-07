@@ -35,5 +35,5 @@ Estudar, entender e complilar os temas: BIBLIOTECA, PACOTE, FRAMEWORKS E API!
     
   3) Como funciona: APIs fornecem endpoints (interfaces para acessar e manipular dados ou funcionalidades de um serviço ou aplicativo). Quando uma API é utilizada, chmadas são feitas para esses endpoints e respostas que você pode usar em seu próprio código são recebidas.
 
-**ORDEM DE GARNDEZA**: API, FRAMEWORK, BIBLIOTECA E PACOTE. 
+**ORDEM DE GRANDEZA**: API, FRAMEWORK, BIBLIOTECA E PACOTE. 
 
