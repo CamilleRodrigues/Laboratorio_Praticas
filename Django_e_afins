@@ -1,0 +1,54 @@
+#AULA 14/08
+
+## DJANGO
+- Framework web em Python para desenvolver aplicações web;
+- Desenvolvimento rápido;
+- Ampla gama de recursos e bibliotecas prontas para uso;
+- Pode lidar com aplicações que exigem alta escalabilidade (Instagram e Pinterest); 
+- Pode ser usado para pequenos projetos e grandes aplicações de alto tráfego;
+- Gera automaticamente uma interface administrativa a partir dos modelos definidos;
+- Sua comunidade contribui com pacotes e extensões que ampliam ainda mais as funcionalidades do framework.
+
+## MODELO MTV DJANGO
+- Abordagem arquitetônica usada pelo framework Django para estruturar aplicações web;
+- **Model (modelo)**: representa a estrutura dos dados e a lógica de acesso ao banco de dados. Define as tabelas do banco de dados e os relacionamentos entre elas usando classes Python.
+- **Tamplate (template)**: ele define a estrutura HTML das páginas e como os dados são exibidos. Permite a criação de páginas web dinâmicas.
+- **View (visão)**: responsável pela lógica de processamento e pela seleção dos dados. 
+- Ajuda a separar as preocupações na aplicação, facilita o desenvolvimento, facilita a reutilização de código e a manutenção de aplicação e permite a adição de novas funcionalidades.
+- Melhora a clareza e a manutenção do código e também facilita o desenvolvimento e a escalabilidade de aplicações web.
+
+## BOOTSTRAP
+- Framework front-end (coleção de arquivos que podem ser utilizados para estilizar e estruturar páginas web) de código aberto criado pelo twitter;
+- Ajudam a criar interfaces de usuário de forma rápida e eficiente;
+- Adaptável a diferentes tamanhos de tela e dispositivos;
+- Sistema de Grid (baseado em colunas para organização da página);
+- Acelera o processo de desenvolvimento front-end, reduzindo a necessidade de criar algo do zero;
+- Facilita a crição de layouts, sem a necessidade de escrever código css personalizado;
+- Ajuda a manter a padronização e customização;
+- Projetado para ser compatível com os principais navegadores.
+
+## PANDAS 
+- É uma biblioteca de software para a linguagem de programação Python, usada principalmente para a MANIPULAÇÃO e ANÁLISE de dados;
+- **DataFrame:** Estrutura de dados bidimensional, dados organizados em linhas e colunas, onde cada coluna pode ser um tipo DIFERENTE de dado;
+- **Series:** Estrutura de dados unidimensional, lista ou vetor, que pode conter dados de um tipo ESPECÍFICO;
+- Manipulação, alanálise, limpeza, exploração e transformação de dados;
+- Boa integração com as bibliotecas do python (Numpy, operações numéricas, e Matplotlib, visualização de dado) e outras bibliotecas;
+
+## SCIKITLEARNING
+- É uma biblioteca, voltada para a construção e aplicação de modelos de machine learning, de aprendizado de máquina para a linguagem Python;
+- Inclui implementações de diversos algoritmos de aprendizado de máquina;
+- Interface consistente e fácil de usar;
+- Serve para classificar amostra com base em dados de treinamento, fazer previsões contínuas com base em dados de treinamento, agrupar amostras com características similares, reduzir o número de variáveis em um conjunto de dados, fornecer ferramentas para preparar e limpar dados, oferecer métodos para avaliar a performance dos modelos, selecionar o melhor modelo e criar pipelines e facilitar a automação e a reprodutibilidade do processo;
+- Oferecendo uma ampla gama de algoritmos e ferramentas para construir, avaliar e aplicar modelos preditivos de maneira eficiente e acessíve;
+
+## MATPLOTLIB
+- Biblioteca de visualização de dados para a linguagem de programação Python;
+- Amplamente utilizada para criar gráficos 2D e visualizações de dados de forma flexível e personalizável;
+- API de baixo nível: permite controle detalhado sobre os elementos dos gráficos;
+- API de alto nível: facilita a criação de gráficos rapidamente (pyplot);
+- Compatibilidade e Integração com outras bibliotecas e plataformas;
+- Gráficos: linhas, barras, dispersão, histogramas, pizza;
+- Personalização e criação de gráficos e análise e apresentação de dados;
+
+
+
